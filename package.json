@@ -1,0 +1,30 @@
+{
+  "name": "shiproom-design-system",
+  "version": "1.0.0",
+  "description": "Design system for Shiproom",
+  "scripts": {
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/shiproom-design-system.git"
+  },
+  "keywords": ["design-system", "react", "storybook"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/addon-a11y": "^7.6.0",
+    "@storybook/addon-essentials": "^7.6.0",
+    "@storybook/addon-interactions": "^7.6.0",
+    "@storybook/addon-links": "^7.6.0",
+    "@storybook/react": "^7.6.0",
+    "@storybook/react-webpack5": "^7.6.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "prop-types": "^15.8.1"
+  }
+}
