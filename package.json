@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/shiproom-design-system.git"
+    "url": "https://github.com/issoni/shiproom-design-system.git"
   },
   "keywords": ["design-system", "react", "storybook"],
   "author": "Your Name",
