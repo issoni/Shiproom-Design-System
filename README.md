@@ -348,10 +348,4 @@ const streamData = {
 
 ---
 
-## 📄 License
-
-MIT License - See LICENSE file for details
-
----
-
 **Built with ❤️ for the developer community**
