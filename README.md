@@ -207,7 +207,7 @@ WCAG 2.1 Level AA compliance guide:
 
 ## 📚 Documentation Links
 - **Case Study** → [[ishikasoni.com/shiproom.html](https://www.ishikasoni.com/shiproom.html#)]
-- **Live Storybook** → [Deploy Storybook to GitHub Pages]
+- **Live Storybook** → [Deploy Storybook to GitHub Pages]View Storybook: Coming soon!
 
 ---
 
